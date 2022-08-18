@@ -1,0 +1,5 @@
+cateto1=int(input("é o valor do cateto 1"))
+cateto2=int(input("qual é o valor do cateto 2"))
+hipotenusa=(cateto1**2)+(cateto2**2)
+Resposta=hipotenusa**(1/2)
+print(Resposta)
